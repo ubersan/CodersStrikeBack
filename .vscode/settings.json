@@ -1,0 +1,12 @@
+{
+    "saveAndRun": {
+        "commands": [
+          {
+            "match": ".*",
+            "cmd": "codingame-merge --output='../source-merge/upload.cpp' --main-file='main.cpp'",
+            "useShortcut": false,
+            "silent": false
+          }
+        ]
+      }
+}
