@@ -57,7 +57,7 @@ public:
         cin.ignore();
     }
 
-    void WriteAssignedAction()
+    void ExecuteAssignedAction()
     {
         cout << ncp.x << " " << ncp.y << " 100" << endl;
     }
